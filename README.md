@@ -34,7 +34,6 @@ If you'd like to chat or have any questions, feel free to drop me a message!
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?logo=apache&logoColor=white)
 
-
 ---
 
 <p align="center">
