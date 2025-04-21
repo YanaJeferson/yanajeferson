@@ -1,14 +1,14 @@
 
-<div style="display: grid; grid-template-columns: 1fr auto; align-items: start;">
-  <div>
+<!-- Container grid con dos columnas -->
+<div align="left" style="display: grid; grid-template-columns: 1fr auto; align-items: start; gap: 20px;">
 
-<!-- Header -->
+<!-- Columna 1: Texto de introducción -->
+<div>
+
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Jeferson!
 *Software Engineer | React Developer | Tech Enthusiast*
-<br />
 
-<!-- Introduction -->
-<p align="left">
+<p>
 I'm currently working on personal projects like <strong>AttackTracer</strong>, an app that allows you to see in real time if a website is under a DDoS attack. I'm also migrating a legacy system developed in WinDev to a modern stack using React, significantly improving performance and maintainability.
 </p>
 
@@ -18,8 +18,13 @@ I'm currently working on personal projects like <strong>AttackTracer</strong>, a
 - 🤝 Always open to collaborate on interesting projects and ideas.  
 - 🌐 Check out my GitHub for more: [YanaJeferson](https://github.com/YanaJeferson)
 
-  </div>
-  <img src="https://raw.githubusercontent.com/YanaJeferson/yanajeferson/refs/heads/main/gatinho-gato.gif" width="130" alt="Gatinho" style="margin-left: 16px;" />
+</div>
+
+<!-- Columna 2: GIF -->
+<div>
+  <img src="https://raw.githubusercontent.com/YanaJeferson/yanajeferson/refs/heads/main/gatinho-gato.gif" width="150" alt="Gatinho Gato GIF" />
+</div>
+
 </div>
 
 <!-- Contact Section -->
