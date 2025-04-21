@@ -1,27 +1,32 @@
-
 ![Jeferson Banner](https://github.com/YanaJeferson/YanaJeferson/blob/main/banner.png)
 
-<!-- Night Owl image -->
-<div>
-  <img align="right" width="30%" src="https://raw.githubusercontent.com/YanaJeferson/yanajeferson/refs/heads/main/gatinho-gato.gif">
- 
-</div>
-
 <!-- Header -->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Jeferson!
-*Software Engineer | React Developer | Tech Enthusiast*
-<br />
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <div style="width: 65%;">
+    <h1>
+      <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
+      I'm Jeferson!
+    </h1>
+    <p><em>Software Engineer | React Developer | Tech Enthusiast</em></p>
+    <br />
 
-<!-- Introduction -->
-<p align="left">
-I'm currently working on personal projects like <strong>AttackTracer</strong>, an app that allows you to see in real time if a website is under a DDoS attack. I'm also migrating a legacy system developed in WinDev to a modern stack using React, significantly improving performance and maintainability.
-</p>
+    <!-- Introduction -->
+    <p align="left">
+    I'm currently working on personal projects like <strong>AttackTracer</strong>, an app that allows you to see in real time if a website is under a DDoS attack. I'm also migrating a legacy system developed in WinDev to a modern stack using React, significantly improving performance and maintainability.
+    </p>
 
-- 🚀 Passionate about full-stack development and automation.
-- 🌱 Constantly learning and exploring React, Next.js, NestJS.
-- 🧠 Interested in building real-time, secure, and scalable applications.
-- 🤝 Always open to collaborate on interesting projects and ideas.
-- 🌐 Check out my GitHub for more: [YanaJeferson](https://github.com/YanaJeferson)
+    - 🚀 Passionate about full-stack development and automation.
+    - 🌱 Constantly learning and exploring React, Next.js, NestJS.
+    - 🧠 Interested in building real-time, secure, and scalable applications.
+    - 🤝 Always open to collaborate on interesting projects and ideas.
+    - 🌐 Check out my GitHub for more: <a href="https://github.com/YanaJeferson">YanaJeferson</a>
+  </div>
+  
+  <!-- Night Owl image -->
+  <div style="width: 30%;">
+    <img align="right" width="100%" src="https://raw.githubusercontent.com/YanaJeferson/yanajeferson/refs/heads/main/gatinho-gato.gif">
+  </div>
+</div>
 
 ---
 
