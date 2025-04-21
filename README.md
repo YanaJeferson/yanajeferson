@@ -1,9 +1,7 @@
-<!-- Banner -->
-![Jeferson Banner](https://github.com/YanaJeferson/YanaJeferson/blob/main/banner.png)
 
 <!-- Night Owl image -->
 <div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png](https://tenor.com/view/cat-coding-gif-22257939)">
 </div>
 
 <!-- Header -->
