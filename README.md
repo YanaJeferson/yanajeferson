@@ -1,21 +1,25 @@
-<div style="display: grid; grid-template-columns: 70% 30%; gap: 20px; align-items: start;">
+
+<div style="display: grid; grid-template-columns: 1fr auto; align-items: start;">
   <div>
 
-    # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Jeferson!
-    *Software Engineer | React Developer | Tech Enthusiast*
+<!-- Header -->
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Jeferson!
+*Software Engineer | React Developer | Tech Enthusiast*
+<br />
 
-    I'm currently working on personal projects like **AttackTracer**, an app that allows you to see in real time if a website is under a DDoS attack. I'm also migrating a legacy system developed in WinDev to a modern stack using React, significantly improving performance and maintainability.
+<!-- Introduction -->
+<p align="left">
+I'm currently working on personal projects like <strong>AttackTracer</strong>, an app that allows you to see in real time if a website is under a DDoS attack. I'm also migrating a legacy system developed in WinDev to a modern stack using React, significantly improving performance and maintainability.
+</p>
 
-    - 🚀 Passionate about full-stack development and automation
-    - 🌱 Constantly learning and exploring React, Next.js, NestJS
-    - 🧠 Interested in building real-time, secure, and scalable applications
-    - 🤝 Always open to collaborate on interesting projects and ideas
-    - 🌐 Check out my GitHub for more: [YanaJeferson](https://github.com/YanaJeferson)
+- 🚀 Passionate about full-stack development and automation.  
+- 🌱 Constantly learning and exploring React, Next.js, NestJS.  
+- 🧠 Interested in building real-time, secure, and scalable applications.  
+- 🤝 Always open to collaborate on interesting projects and ideas.  
+- 🌐 Check out my GitHub for more: [YanaJeferson](https://github.com/YanaJeferson)
 
   </div>
-  <div style="display: flex; justify-content: flex-end;">
-    <img width="100%" src="https://raw.githubusercontent.com/YanaJeferson/yanajeferson/refs/heads/main/gatinho-gato.gif">
-  </div>
+  <img src="https://raw.githubusercontent.com/YanaJeferson/yanajeferson/refs/heads/main/gatinho-gato.gif" width="130" alt="Gatinho" style="margin-left: 16px;" />
 </div>
 
 <!-- Contact Section -->
