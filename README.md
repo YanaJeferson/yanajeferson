@@ -1,7 +1,10 @@
 
+![Jeferson Banner](https://github.com/YanaJeferson/YanaJeferson/blob/main/banner.png)
+
 <!-- Night Owl image -->
 <div>
-  <img align="right" width="10%" src="https://raw.githubusercontent.com/YanaJeferson/yanajeferson/refs/heads/main/gatinho-gato.gif">
+  <img align="right" width="30%" src="https://raw.githubusercontent.com/YanaJeferson/yanajeferson/refs/heads/main/gatinho-gato.gif">
+ 
 </div>
 
 <!-- Header -->
