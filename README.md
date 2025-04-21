@@ -1,34 +1,22 @@
-![Jeferson Banner](https://github.com/YanaJeferson/YanaJeferson/blob/main/banner.png)
+<div style="display: grid; grid-template-columns: 70% 30%; gap: 20px; align-items: start;">
+  <div>
 
-<!-- Header -->
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <div style="width: 65%;">
-    <h1>
-      <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
-      I'm Jeferson!
-    </h1>
-    <p><em>Software Engineer | React Developer | Tech Enthusiast</em></p>
-    <br />
+    # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Jeferson!
+    *Software Engineer | React Developer | Tech Enthusiast*
 
-    <!-- Introduction -->
-    <p align="left">
-    I'm currently working on personal projects like <strong>AttackTracer</strong>, an app that allows you to see in real time if a website is under a DDoS attack. I'm also migrating a legacy system developed in WinDev to a modern stack using React, significantly improving performance and maintainability.
-    </p>
+    I'm currently working on personal projects like **AttackTracer**, an app that allows you to see in real time if a website is under a DDoS attack. I'm also migrating a legacy system developed in WinDev to a modern stack using React, significantly improving performance and maintainability.
 
-    - 🚀 Passionate about full-stack development and automation.
-    - 🌱 Constantly learning and exploring React, Next.js, NestJS.
-    - 🧠 Interested in building real-time, secure, and scalable applications.
-    - 🤝 Always open to collaborate on interesting projects and ideas.
-    - 🌐 Check out my GitHub for more: <a href="https://github.com/YanaJeferson">YanaJeferson</a>
+    - 🚀 Passionate about full-stack development and automation
+    - 🌱 Constantly learning and exploring React, Next.js, NestJS
+    - 🧠 Interested in building real-time, secure, and scalable applications
+    - 🤝 Always open to collaborate on interesting projects and ideas
+    - 🌐 Check out my GitHub for more: [YanaJeferson](https://github.com/YanaJeferson)
+
   </div>
-  
-  <!-- Night Owl image -->
-  <div style="width: 30%;">
-    <img align="right" width="100%" src="https://raw.githubusercontent.com/YanaJeferson/yanajeferson/refs/heads/main/gatinho-gato.gif">
+  <div style="display: flex; justify-content: flex-end;">
+    <img width="100%" src="https://raw.githubusercontent.com/YanaJeferson/yanajeferson/refs/heads/main/gatinho-gato.gif">
   </div>
 </div>
-
----
 
 <!-- Contact Section -->
 ## 🌐 Connect with Me
