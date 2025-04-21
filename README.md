@@ -1,7 +1,7 @@
 
 <!-- Night Owl image -->
 <div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png](https://tenor.com/view/cat-coding-gif-22257939)">
+  <img align="right" width="40%" src="https://raw.githubusercontent.com/YanaJeferson/yanajeferson/refs/heads/main/gatinho-gato.gif">
 </div>
 
 <!-- Header -->
