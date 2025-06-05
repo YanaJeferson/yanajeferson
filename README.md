@@ -4,19 +4,14 @@
 
 <!-- Columna 1: Texto de introducción -->
 <div>
-
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Jeferson!
+I'm Jeferson!
 *Software Engineer | React Developer | Tech Enthusiast*
 
-<p>
-I'm currently working on personal projects like <strong>AttackTracer</strong>, an app that allows you to see in real time if a website is under a DDoS attack. I'm also migrating a legacy system developed in WinDev to a modern stack using React, significantly improving performance and maintainability.
-</p>
-
-- 🚀 Passionate about full-stack development and automation.  
-- 🌱 Constantly learning and exploring React, Next.js, NestJS.  
-- 🧠 Interested in building real-time, secure, and scalable applications.  
-- 🤝 Always open to collaborate on interesting projects and ideas.  
-- 🌐 Check out my GitHub for more: [YanaJeferson](https://github.com/YanaJeferson)
+-  Passionate about full-stack development and automation.  
+-  Constantly learning and exploring React, Next.js, NestJS.  
+-  Interested in building real-time, secure, and scalable applications.  
+-  Always open to collaborate on interesting projects and ideas.  
+-  Check out my GitHub for more: [YanaJeferson](https://github.com/YanaJeferson)
 
 </div>
 
@@ -28,7 +23,7 @@ I'm currently working on personal projects like <strong>AttackTracer</strong>, a
 </div>
 
 <!-- Contact Section -->
-## 🌐 Connect with Me
+## Connect with Me
 <div align="left">
   <a href="mailto:your_email@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
@@ -41,7 +36,7 @@ I'm currently working on personal projects like <strong>AttackTracer</strong>, a
 ---
 
 <!-- Tech Stack -->
-## 💻 Tech Stack
+## Tech Stack
 ![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white)
@@ -59,7 +54,7 @@ I'm currently working on personal projects like <strong>AttackTracer</strong>, a
 ---
 
 <!-- GitHub Stats -->
-## 📊 GitHub Stats
+## GitHub Stats
 
 <table width="100%">
   <tr>
@@ -78,34 +73,4 @@ I'm currently working on personal projects like <strong>AttackTracer</strong>, a
   </tr>
 </table>
 
----
 
-<!-- GitHub Trophies -->
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YanaJeferson&theme=onedark&no-frame=true&row=2&column=3" />
-</p>
-
----
-
-<!-- Top Repo or Project -->
-## 🚀 Latest Project
-<p align="center">
-  <img width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=YanaJeferson&repo=AttackTracer&theme=nightowl&show_owner=true" alt="AttackTracer Project" />
-</p>
-
----
-
-<!-- Contribution Graph -->
-## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YanaJeferson&theme=nightowl&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" />
-</p>
-
----
-
-<!-- Thought of the Day -->
-## 🌟 Thought of the Day
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
