@@ -1,17 +1,18 @@
-
 <!-- Container grid con dos columnas -->
 <div align="left" style="display: grid; grid-template-columns: 1fr auto; align-items: start; gap: 20px;">
 
 <!-- Columna 1: Texto de introducción -->
 <div>
-I'm Jeferson!
+I'm Jeferson!  
 *Software Engineer | React Developer | Tech Enthusiast*
 
--  Passionate about full-stack development and automation.  
--  Constantly learning and exploring React, Next.js, NestJS.  
--  Interested in building real-time, secure, and scalable applications.  
--  Always open to collaborate on interesting projects and ideas.  
--  Check out my GitHub for more: [YanaJeferson](https://github.com/YanaJeferson)
+- 🔧 Fullstack developer con +3 años de experiencia.
+- ⚛️ Especializado en React, TypeScript, NestJS y arquitectura moderna.
+- 🚀 Apasionado por el desarrollo web, la automatización y la optimización de procesos.
+- 🐳 Con conocimientos en Docker, Portainer, servidores VPS, Linux y despliegues en Nginx/Apache.
+- 🔐 Experiencia en desarrollo de APIs seguras, cacheo, autenticación y sistemas escalables.
+- 🤝 Abierto a colaborar en proyectos interesantes, especialmente en modalidad remota.
+- 📂 Mira mi trabajo en GitHub: [YanaJeferson](https://github.com/YanaJeferson)
 
 </div>
 
@@ -22,21 +23,21 @@ I'm Jeferson!
 
 </div>
 
-<!-- Contact Section -->
-## Connect with Me
+---
+
+## 🌐 Connect with Me
 <div align="left">
-  <a href="mailto:your_email@gmail.com">
+  <a href="mailto:jefersonyanac29@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/jefersonyana">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </div>
 
 ---
 
-<!-- Tech Stack -->
-## Tech Stack
+## 🧰 Tech Stack
 ![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white)
@@ -48,13 +49,15 @@ I'm Jeferson!
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalOcean&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white)
+![Portainer](https://img.shields.io/badge/portainer-0066cc.svg?logo=portainer&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?logo=apache&logoColor=white)
 
 ---
 
-<!-- GitHub Stats -->
-## GitHub Stats
+## 📈 GitHub Stats
 
 <table width="100%">
   <tr>
@@ -72,5 +75,3 @@ I'm Jeferson!
     </td>
   </tr>
 </table>
-
-
