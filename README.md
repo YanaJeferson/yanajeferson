@@ -10,7 +10,6 @@
 My main stack includes **React, Next.js, NestJS, and TypeScript**, along with backend tools, infrastructure and clean code practices to deliver reliable software for real-world use.
 
 ### 🔧 About Me:
-- Fullstack developer with +3 years of experience.
 - ⚛️ Specialized in React, TypeScript, NestJS and modern architectures.
 - 🚀 Passionate about web development, automation and process optimization.
 - 🐳 Skilled in Docker, Portainer, VPS management, Linux and Nginx/Apache deployment.
